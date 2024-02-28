@@ -1,8 +1,9 @@
 # Project Lyriks React Music Player with Shazam API Integration
 
-# Overview
+# { Project Link: https://leafy-sunflower-0c945b.netlify.app/ }
 
-Welcome to the React Music Player, a feature-rich and responsive single-page application that brings music exploration to your fingertips. This project is crafted with React, Tailwind CSS, Redux Toolkit, Shazam Core API, Geolocation API, and deployed on Netlify. Let's delve into the exciting features and technologies that make this music player stand out.
+# Overview
+Welcome to the React Music Player, a feature-rich and responsive single-page application that brings music exploration to your fingertips. This project is crafted with React, Tailwind CSS, Redux Toolkit, Shazam Core API, and Geolocation API, and deployed on Netlify. Let's explore the exciting features and technologies that make this music player stand out.
 
 Technologies Used:
 1. React: The project is built using React, providing a dynamic and efficient user interface.
@@ -18,7 +19,6 @@ Technologies Used:
 6. Netlify Deployment: The application is deployed on Netlify, ensuring accessibility for users worldwide.
 
 Key Functionalities:
-
 1. Playback Controls:
 Adjust the volume to your preference.
 Shuffle through your playlist for a randomized listening experience.
@@ -39,14 +39,13 @@ Click on any song to retrieve its lyrics.
 Explore songs related to your selected track, creating a seamless music discovery experience.
 
 6. Search Functionality:
-Utilize the search navbar to find a particular song, artist, or genre, enhancing user convenience.
+You can use the search navbar to find a particular song, artist, or genre, enhancing user convenience.
 
 API Documentation:
-
 In this section, we provide comprehensive documentation for the APIs integral to our project, sourced from Postman. The documentation is organized into two main categories:
 
 1. Geolocation API
-The Geolocation API is employed to determine the location (country) of visitors to our project. This functionality enhances our project by tailoring experiences based on user geography. Detailed information on how to integrate and utilize this API can be found in the Geolocation API Documentation.
+The Geolocation API is employed to determine the location (country) of visitors to our project. This functionality enhances the project by tailoring experiences based on user geography. Detailed information on integrating and utilizing this API can be found in the Geolocation API Documentation.
 Link: https://documenter.getpostman.com/view/32374964/2sA2rFT19Q
 
 3. ShazamCore API

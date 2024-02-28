@@ -1,5 +1,6 @@
 # Project Lyriks React Music Player with Shazam API Integration
 
+#Overview
 Welcome to the React Music Player, a feature-rich and responsive single-page application that brings music exploration to your fingertips. This project is crafted with React, Tailwind CSS, Redux Toolkit, Shazam Core API, Geolocation API, and deployed on Netlify. Let's delve into the exciting features and technologies that make this music player stand out.
 
 Technologies Used:

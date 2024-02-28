@@ -40,3 +40,15 @@ Explore songs related to your selected track, creating a seamless music discover
 
 6. Search Functionality:
 Utilize the search navbar to find a particular song, artist, or genre, enhancing user convenience.
+
+API Documentation:
+
+In this section, we provide comprehensive documentation for the APIs integral to our project, sourced from Postman. The documentation is organized into two main categories:
+
+1. Geolocation API
+The Geolocation API is employed to determine the location (country) of visitors to our project. This functionality enhances our project by tailoring experiences based on user geography. Detailed information on how to integrate and utilize this API can be found in the Geolocation API Documentation.
+
+2. ShazamCore API
+Leveraging the power of ShazamCore API, our project incorporates various endpoints to enrich user interactions. These endpoints serve distinct purposes, contributing to the overall functionality of our application. Explore the specifics of integrating ShazamCore API by referring to the ShazamCore API Documentation.
+
+For a more in-depth understanding and seamless integration, follow the provided links to access the complete API documentation, ensuring a smooth development process and optimal utilization of these essential components in our project.
